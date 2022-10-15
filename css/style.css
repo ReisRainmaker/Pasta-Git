@@ -1,3 +1,10 @@
-body  {
-    border: 3px green;
+.altera{
+    background-color: rgb(81, 183, 187);
+    padding: 10px;
+    text-align: center;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
 }
